@@ -20,7 +20,7 @@ Robocodeを利用した自作ロボット。敵ロボットを捕捉して、対
 
 ## デモ
 SampleロボットCrezyとの対戦
-![vsCrazy](https://github.com/C0118128/Circular-motion-Robocode/blob/doc/videos/vsCrazy.gif)
+![vsCrazy](https://github.com/C0118128/Circular-motion-Robocode/blob/doc/images/vsCrazy.gif)
 
 ## インストール方法
 Roboode内で本ロボットを登録して、実行してください。 </br>
