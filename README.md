@@ -19,7 +19,8 @@ Robocodeを利用した自作ロボット。敵ロボットを捕捉して、対
 * 回避を意識したロボットのため、攻撃が敵ロボットに当たる確率が低い。
 
 ## デモ
-近日中に動画公開
+SampleロボットCrezyとの対戦
+![vsCrazy](https://github.com/C0118128/Circular-motion-Robocode/blob/doc/videos/vsCrazy.gif)
 
 ## インストール方法
 Roboode内で本ロボットを登録して、実行してください。 </br>
