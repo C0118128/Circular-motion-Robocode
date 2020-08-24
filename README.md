@@ -21,8 +21,8 @@ Robocodeを利用した自作ロボット。敵ロボットを捕捉して、対
 ## デモ
 
 ## インストール方法
-`$ git clone https://github.com/C0118128/Circular-motion-Robocode.git` </br>
 Roboode内で本ロボットを登録して、実行してください。
+`$ git clone https://github.com/C0118128/Circular-motion-Robocode.git` </br>
 
 ## 作者
 * Ryoto
